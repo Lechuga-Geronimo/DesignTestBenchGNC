@@ -1,4 +1,4 @@
-# Characterization, Design, Development and Simulation of a Test Bench for the Validation of Control Systems for CubeSat Satellites
+# Characterization, Design, Development and Simulation of a Test Bench for the Validation of Control Systems for CubeSat Satellites 
 Project to design a test platform to suspend a satellite, for recreating the low-friction conditions they are subjected in space and to test ADCS performance of CubeSat. 
 
 ## Year: 2021 - 2022.
@@ -23,3 +23,9 @@ Characterize, design, develop and simulate, under a proprietary design, a test b
 4. Generate a design proposal capable of validating the performance of control algorithms. 
 5. Simulate the Test Bench prototype. 
 6. Validate the correct operation of the Test Bench.
+
+## Mechanical Design. 
+
+A 1U CubeSat inside a 3D printed sphere, air-suspended over a graphite bed.
+
+![1717192396141](https://github.com/Lechuga-Geronimo/DesignTestBenchGNC/assets/142461885/69ec15bf-fffb-4bbc-b247-845d1928c129)
